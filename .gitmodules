@@ -1,0 +1,3 @@
+[submodule "src/xv6-public"]
+	path = src/xv6-public
+	url = git@github.com:mit-pdos/xv6-public.git
